@@ -12,12 +12,12 @@ July 1st to July 31st, 31 days and nights of writing code.
 Julython is a month to try something new, something you have had
 rolling around in your brain for a while. This could be something
 simple like 'build the next Google' or 'replace email'. Or you
-could try something hard like 'build a Django website'. All that
+could try something hard like 'build a Django website'. All what
 matters is that you open source it and write it during the month of
 July or January.
 
 Why only 31 days? Why not all year? Well, for one we all have lives
-and jobs which get in the way. Having a month set aside where we
+and jobs which get in our way. Having a month set aside where we
 all get together and write code will allow us to rely on each other
 to keep us on track towards our goals. There will also be a little
 bit of healthy competition and public flogging to encourage everyone
